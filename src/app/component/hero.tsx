@@ -27,7 +27,7 @@ const Hero = () => {
         </div>
       </div>
       <div className="mt-10 md:mt-0 bg-gray-800 border-2 border-gray-600 rounded-2xl shadow-custom flex justify-center md:justify-start transform transition-transform duration-200 hover:scale-105 md:w-2/3">
-        <Image src="/images/photo_t.png" alt="Profile Picture" width={800} height={400} className="object-cover transform transition-transform duration-300 hover:scale-110" />
+        <Image src="/images/Photo_t.png" alt="Profile Picture" width={800} height={400} className="object-cover transform transition-transform duration-300 hover:scale-110" />
       </div>
     </div>
   )
