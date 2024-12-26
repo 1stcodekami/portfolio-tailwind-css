@@ -10,7 +10,7 @@ const Hero = () => {
       <div className="md:mr-4">
         <p className="text-gray-400 text-lg font-mono mb-3 md:text-2xl">WELCOME TO MY WORLD</p>
         <h1 className="text-4xl md:text-6xl text-cadetblue mb-8 ">
-          Hello, I'm <span className="text-red-600">M Kamran</span> <br /> a <TypingHeadline />
+          Hello, I&apos;m <span className="text-red-600">M Kamran</span> <br /> a <TypingHeadline />
         </h1>
         <div className="w-full md:w-11/12">
           <p className="text-lg text-gray-600 font-mono mt-8 md:text-2xl">

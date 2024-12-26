@@ -15,7 +15,7 @@ const Contact = () => {
                         <Image src="/images/contact_2.png" alt="Contact Us" width={200} height={200} className="transform transition-transform duration-300 hover:scale-110" />
                     </div>
                     <h3 className="text-2xl text-red-600 mb-4">Contact Us</h3>
-                    <p className="text-gray-400 mb-4 text-center">Feel free to reach out for any inquiries, collaborations, or just to say hi. I'm always open to new opportunities.</p>
+                    <p className="text-gray-400 mb-4 text-center">Feel free to reach out for any inquiries, collaborations, or just to say hi. I&apos;m always open to new opportunities.</p>
                     <p className="text-gray-400 mb-2"><span className="font-semibold">Phone:</span> +92322xxxx</p>
                     <p className="text-gray-400 mb-2"><span className="font-semibold">Email:</span> abc@example.com</p>
                     <p className="text-gray-400 font-semibold mb-2">FIND WITH ME</p>
